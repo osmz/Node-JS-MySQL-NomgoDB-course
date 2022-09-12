@@ -1,4 +1,4 @@
-# Node JS - MySQL - NomgoDB
+# Node JS - MySQL - NongoDB
 
 ## ¿What is node?
 
